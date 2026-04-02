@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.idea/
+.codex/
+_autotest_format_scan/
+_autotest_format_scan_v2/
+cert_crop_test_*/
+cert_geom_test_*/
+cert_test_*/
+新建文件夹/
+*.log
+*.tmp
+*.swp
